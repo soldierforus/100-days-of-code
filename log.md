@@ -60,7 +60,7 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 **Next Up**
 [1000hours] More bugs found.  I think these may be problems with the none-persist module  I want a more robust time logger anyways so I can produce visual data for time tracked using dates (eg weekly/monthly averages etc).  Remove files from github.  Create new feature branch.
 
-[Personal Website] I Discovered the collapsed menu bar on my website is not functional; need to diagnose and fix. Remove files from github.  Create new feature branch.
+[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix. Remove files from github.  Create new feature branch.
 
 [TalkSick.Space] - More work on my friends website.
 
@@ -70,3 +70,32 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 1. [Websites] http://www.TDBennett.com, http://tucsoncode.org/, http://tucsonprivacy.com/
 
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com, https://github.com/soldierforus/1000hours, https://github.com/soldierforus/talkSick
+
+
+
+### Day 4 ----- 7 January 2017, Saturday
+
+**Today's Progress**:
+Back at the codes.  Today I worked on building a keyboard drum kit for the website http://talksick.space
+
+
+**TIL**
+I installed oh-my-zsh  for my terminal and chose the "kafeitu" theme.
+http://ohmyz.sh/
+https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+
+
+**Next Up**
+[ReactJS]
+
+[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix.
+
+[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+
+[GitHub] Learn about removing files from master branch on github
+
+**Link(s) to work**
+
+1. [Websites] http://talksick.space
+
+2. [Github Repo] https://github.com/soldierforus/talkSick
