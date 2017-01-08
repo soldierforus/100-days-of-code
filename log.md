@@ -3,8 +3,9 @@
 
 
 ### Day 1
-###_____________________________________________________________________________ 
 3 January 2017, Tuesday
+###_____________________________________________________________________________
+
 
 **Today's Progress**:
 I revamped my personal website and got it set up using Amazon Web Services, along with a few other websites I created and maintain.
@@ -21,8 +22,8 @@ I've been on a bit of a hiatus, but I am ready to go full steam ahead with codin
 
 
 ### Day 2
-###_____________________________________________________________________________
 4 January 2017, Wednesday
+###_____________________________________________________________________________
 
 **Today's Progress**:
 Today I made some minor changes on other websites for other organizations I run, and got them hosted and served through Amazon Web Services.  I also made some changes to my time logger [1000hours] fixing a bug that allowed minutes to show more than 59.  Began work on an I/o function so time logger cannot be stopped twice in a row.
@@ -48,8 +49,8 @@ Tomorrow I will work on creating a website for my friend's music group.
 
 
 ### Day 3
-###_____________________________________________________________________________
 5 January 2017, Thursday
+###_____________________________________________________________________________
 
 **Today's Progress**:
 Today I discovered many more bugs in my time logger, added to Next Up ideas to improve in the Next Up Section.  
@@ -80,8 +81,8 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 
 
 ### Day 4
-###_____________________________________________________________________________
 7 January 2017, Saturday
+###_____________________________________________________________________________
 
 **Today's Progress**:
 Back at the codes.  Today I worked on building a keyboard drum kit for the website http://talksick.space
