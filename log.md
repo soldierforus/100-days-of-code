@@ -108,3 +108,40 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 1. [Websites] http://talksick.space
 
 2. [Github Repo] https://github.com/soldierforus/talkSick
+
+
+### Day 5
+8 January 2017, Sunday
+###_____________________________________________________________________________
+
+**Today's Progress**:
+Today I worked on:
+  Responsive css for http://talksick.space.
+  JS/CSS a timezone clock
+  Fixed navbar collapse, changed fonts, added facebook image metadata, http://tdbennett.com
+
+
+
+**TIL**
+Today I read this Airbnb Javascript style guide and forked it's repo to my github account.  I'm looking for cleaner code in future projects.
+https://github.com/soldierforus/javascript
+
+How to write, execute a script from linux bash: while true; do date >> date.txt ; sleep 5 ; done &
+How to find processes and kill them:
+  ps -ef
+  kill -9 <process number>
+
+**Next Up**
+[ReactJS]
+
+[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+
+[GitHub] Learn about removing files from master branch on github
+
+Metric/Standard Measurement Converter
+
+**Link(s) to work**
+
+1. [Websites] http://talksick.space
+
+2. [Github Repo] https://github.com/soldierforus/talkSick
