@@ -19,6 +19,7 @@ I've been on a bit of a hiatus, but I am ready to go full steam ahead with codin
 
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com  
 
+###_____________________________________________________________________________
 
 
 ### Day 2
@@ -46,6 +47,7 @@ Tomorrow I will work on creating a website for my friend's music group.
 
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com, https://github.com/soldierforus/1000hours
 
+###_____________________________________________________________________________
 
 
 ### Day 3
@@ -78,6 +80,7 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com, https://github.com/soldierforus/1000hours, https://github.com/soldierforus/talkSick
 
+###_____________________________________________________________________________
 
 
 ### Day 4
@@ -108,6 +111,8 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 1. [Websites] http://talksick.space
 
 2. [Github Repo] https://github.com/soldierforus/talkSick
+
+###_____________________________________________________________________________
 
 
 ### Day 5
@@ -146,7 +151,7 @@ Metric/Standard Measurement Converter
 
 2. [Github Repo] https://github.com/soldierforus/talkSick
 
-
+###_____________________________________________________________________________
 
 
 ### Day 6
