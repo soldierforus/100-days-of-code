@@ -145,3 +145,41 @@ Metric/Standard Measurement Converter
 1. [Websites] http://talksick.space
 
 2. [Github Repo] https://github.com/soldierforus/talkSick
+
+
+
+
+### Day 6
+9 January 2017, Monday
+###_____________________________________________________________________________
+
+**Today's Progress**:
+Today I worked on:
+  JS/CSS a timezone clock
+
+
+**TIL**
+Read and watched NodeJS State of the Union:
+https://www.linux.com/news/nodejs-state-union
+
+
+**Next Up**
+[ReactJS] - Time logger
+
+[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+
+[GitHub] Learn about removing files from master branch on github
+
+Metric/Standard Measurement Converter
+
+Time zone Calculator
+
+JavaScript Hover Word  Change
+
+Word of Day API
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
