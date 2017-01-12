@@ -38,7 +38,7 @@ eslint - http://eslint.org/ - The pluggable linting utility for JavaScript and J
 I was inspired to make my nodeJS apps a little more consistent with double quotes, semi-colons, spacing, and to adhere to accepted styling practices in general for my code using these new tools.
 
 **Thoughts**
-Tomorrow I will work on creating a website for my friend's music group.
+~~Tomorrow I will work on creating a website for my friend's music group.~~
 
 
 **Link(s) to work**
@@ -70,9 +70,9 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 **Next Up**
 [1000hours] More bugs found.  I think these may be problems with the none-persist module  I want a more robust time logger anyways so I can produce visual data for time tracked using dates (eg weekly/monthly averages etc).  Remove files from github.  Create new feature branch.
 
-[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix. Remove files from github.  Create new feature branch.
+~~[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix. Remove files from github.  Create new feature branch.~~
 
-[TalkSick.Space] - More work on my friends website.
+~~[TalkSick.Space] - More work on my friends website.~~
 
 
 **Link(s) to work**
@@ -102,7 +102,7 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 **Next Up**
 [ReactJS]
 
-[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix.
+~~[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix.~~
 
 [TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
 
@@ -181,9 +181,9 @@ https://www.linux.com/news/nodejs-state-union
 
 Metric/Standard Measurement Converter
 
-Time zone Calculator
+Time zone clock
 
-JavaScript Hover Word  Change
+~~JavaScript Hover Word  Change~~
 
 Word of Day API
 
@@ -228,6 +228,49 @@ Metric/Standard Measurement Converter
 Time zone Calculator
 
 ~~JavaScript Hover Word Change~~
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 8
+11 January 2017, Wednesday
+
+**Today's Progress**:
+Today I worked on: <br>
+  JS/CSS a timezone clock <br>
+  Word of the day API <br>
+  Metric/Standard Converter <br>
+
+
+**TIL**
+How to make strikethrough texts with github markdown.
+http://webapps.stackexchange.com/questions/14986/strikethrough-with-github-markdown
+
+This sweet market of <strong>FREE API's</strong>
+https://market.mashape.com/
+
+
+**Next Up**
+[ReactJS] - Time logger
+
+[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+
+[GitHub] Learn about removing files from master branch on github
+
+Metric/Standard Measurement Converter
+
+Time zone Clock
 
 Word of Day API
 
