@@ -104,9 +104,9 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
 ~~[Personal Website] I discovered the collapsed menu bar on my website is not functional; need to diagnose and fix.~~
 
-[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
 
-[GitHub] Learn about removing files from master branch on github
+~~[GitHub] Learn about removing files from master branch on github~~
 
 **Link(s) to work**
 
@@ -124,10 +124,10 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
 **Today's Progress**:
 Today I worked on:
-  Responsive css for http://talksick.space.
-  JS/CSS a timezone clock
-  Fixed navbar collapse, changed fonts, added facebook image metadata, http://tdbennett.com
-
+  ~~Responsive css for http://talksick.space.~~
+  ~~JS/CSS a timezone clock~~
+  ~~Fixed navbar collapse, changed fonts, added facebook image metadata, http://tdbennett.com
+~~
 
 
 **TIL**
@@ -142,9 +142,9 @@ How to find processes and kill them:
 **Next Up**
 [ReactJS]
 
-[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+[TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
 
-[GitHub] Learn about removing files from master branch on github
+~~[GitHub] Learn about removing files from master branch on github~~
 
 Metric/Standard Measurement Converter
 
@@ -164,7 +164,7 @@ Metric/Standard Measurement Converter
 
 **Today's Progress**:
 Today I worked on:
-  JS/CSS a timezone clock
+  ~~JS/CSS a timezone clock~~
 
 
 **TIL**
@@ -175,9 +175,9 @@ https://www.linux.com/news/nodejs-state-union
 **Next Up**
 [ReactJS] - Time logger
 
-[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+[TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
 
-[GitHub] Learn about removing files from master branch on github
+~~[GitHub] Learn about removing files from master branch on github~~
 
 Metric/Standard Measurement Converter
 
@@ -203,8 +203,8 @@ Word of Day API
 
 **Today's Progress**:
 Today I worked on:
-  JS/CSS a timezone clock
-  Mouseover/Mouseout JavaScript
+  ~~JS/CSS a timezone clock~~
+  ~~Mouseover/Mouseout JavaScript~~
   Metric/Standard Converter
 
 
@@ -219,13 +219,13 @@ http://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related
 **Next Up**
 [ReactJS] - Time logger
 
-[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+[TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
 
-[GitHub] Learn about removing files from master branch on github
+~~[GitHub] Learn about removing files from master branch on github~~
 
 Metric/Standard Measurement Converter
 
-Time zone Calculator
+~~Time zone clock~~
 
 ~~JavaScript Hover Word Change~~
 
@@ -248,7 +248,7 @@ Word of Day API
 
 **Today's Progress**:
 Today I worked on: <br>
-  JS/CSS a timezone clock <br>
+  ~~JS/CSS a timezone clock~~ <br>
   Word of the day API <br>
   Metric/Standard Converter <br>
 
@@ -264,13 +264,98 @@ https://market.mashape.com/
 **Next Up**
 [ReactJS] - Time logger
 
-[TalkSick.Space] - Embed SoundCloud, Add animations to second 'K'
+[TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
 
-[GitHub] Learn about removing files from master branch on github
+~~[GitHub] Learn about removing files from master branch on github~~
 
 Metric/Standard Measurement Converter
 
-Time zone Clock
+~~Time zone Clock~~
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+
+### Day 9
+12 January 2017, Thursday
+
+**Today's Progress**:
+Today I worked on: <br>
+  ~~JS/CSS a timezone clock~~ <br>
+  Word of the day API <br>
+  Metric/Standard Converter <br>
+
+
+**TIL**
+How to make strikethrough texts with github markdown.
+http://webapps.stackexchange.com/questions/14986/strikethrough-with-github-markdown
+
+This sweet market of <strong>FREE API's</strong>
+https://market.mashape.com/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+[TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
+
+~~[GitHub] Learn about removing files from master branch on github~~
+
+Metric/Standard Measurement Converter
+
+~~Time zone Clock~~
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 10
+14 January 2017, Saturday
+
+**Today's Progress**:
+Today I worked on: <br>
+  ~~JS/CSS a timezone clock~~ <br>
+  Word of the day API <br>
+  Metric/Standard Converter<br>
+  ~~Learn about removing files from master branch on github~~ <br>
+
+
+**TIL**
+React Dribble -  Show and Tell for Designers:
+https://dribbble.com/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
+
+~~[GitHub] Learn about removing files from master branch on github~~
+
+Metric/Standard Measurement Converter
+
+~~Time zone Clock~~
 
 Word of Day API
 
