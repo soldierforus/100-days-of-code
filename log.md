@@ -367,3 +367,118 @@ Word of Day API
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com
 
 ###_____________________________________________________________________________
+
+
+
+
+### Day 10
+14 January 2017, Saturday
+
+**Today's Progress**:
+Today I worked on: <br>
+  ~~JS/CSS a timezone clock~~ <br>
+  Word of the day API <br>
+  Metric/Standard Converter<br>
+  ~~Learn about removing files from master branch on github~~ <br>
+
+
+**TIL**
+React Dribble -  Show and Tell for Designers:
+https://dribbble.com/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
+
+~~[GitHub] Learn about removing files from master branch on github~~
+
+Metric/Standard Measurement Converter
+
+~~Time zone Clock~~
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 10
+14 January 2017, Saturday
+
+**Today's Progress**:
+Today I worked on: <br>
+  ~~JS/CSS a timezone clock~~ <br>
+  Word of the day API <br>
+  Metric/Standard Converter<br>
+  ~~Learn about removing files from master branch on github~~ <br>
+
+
+**TIL**
+React Dribble -  Show and Tell for Designers:
+https://dribbble.com/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
+
+~~[GitHub] Learn about removing files from master branch on github~~
+
+Metric/Standard Measurement Converter
+
+~~Time zone Clock~~
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 11
+17 January 2017, Tuesday
+
+**Today's Progress**:
+Today I worked on: <br>
+  <li>Word of the day API <br>
+  <li>Metric/Standard Converter<br>
+
+
+**TIL**
+Why JavaScript is used in IoT
+http://blog.hackerearth.com/javascript-in-iot?utm_source=facebook-post&utm_campaign=jsiot&utm_medium=he-handle
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Metric/Standard Measurement Converter
+
+Word of Day API
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
