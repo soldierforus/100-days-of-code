@@ -455,18 +455,18 @@ Word of Day API
 
 ### Day 11
 17 January 2017, Tuesday
-
+<br><br>
 **Today's Progress**:
 Today I worked on: <br>
   <li>Word of the day API <br>
   <li>Metric/Standard Converter<br>
 
-
+<br><br>
 **TIL**
 Why JavaScript is used in IoT
 http://blog.hackerearth.com/javascript-in-iot?utm_source=facebook-post&utm_campaign=jsiot&utm_medium=he-handle
 
-
+<br><br>
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -474,7 +474,50 @@ Metric/Standard Measurement Converter
 
 Word of Day API
 
+<br><br>
+**Link(s) to work**
 
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 12
+18 January 2017, Wednesday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  ~~<li>Metric/Standard Converter<br>~~
+
+<br><br>
+**Today I Read**
+Node.js Best Practices - How to Become a Better Developer in 2017
+https://blog.risingstack.com/node-js-best-practices-2017/
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Metric/Standard Measurement Converter
+
+Word of Day API
+
+Picture Mosaic
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
 **Link(s) to work**
 
 1. [Websites] - not yet published
