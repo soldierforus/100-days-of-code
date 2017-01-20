@@ -573,3 +573,53 @@ Serverless- https://serverless.com/
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com
 
 ###_____________________________________________________________________________
+
+
+
+
+### Day 14
+20 January 2017, Friday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  Event Listeners in Node.Js
+  Word of the Day API
+  Began reading React Documentation
+
+<br><br>
+**Today I Read**
+Learn Event Driven Programming in Node.js
+https://www.eduonix.com/blog/web-programming-tutorials/learn-event-driven-programming-node-js/
+Learn about Event Emitters in Node.js
+https://www.eduonix.com/blog/web-programming-tutorials/learn-event-emitters-node-js/
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Metric/Standard Measurement Converter
+
+Word of Day API
+
+Twitter Bot - Reply on follow/followback
+
+Picture Mosaic
+
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
