@@ -672,6 +672,10 @@ Serverless- https://serverless.com/
 
 
 
+
+
+
+
 ### Day 16
 22 January 2017, Sunday
 <br><br>
@@ -714,5 +718,153 @@ Serverless- https://serverless.com/
 1. [Websites] - not yet published
 
 2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+### Day 16
+22 January 2017, Sunday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  Event Listeners in Node.Js
+  Word of the Day API
+
+
+<br><br>
+**Today I Read**
+jQuer/Ajax
+http://api.jquery.com/jquery.getjson/
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Metric/Standard Measurement Converter
+
+Word of Day API
+
+Twitter Bot - Reply on follow/followback
+
+Picture Mosaic
+
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+
+### Day 17
+23 January 2017, Monday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  Aesthetic changes rose website
+
+
+<br><br>
+**Today I Read**
+jQuer/Ajax
+http://api.jquery.com/jquery.getjson/
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Metric/Standard Measurement Converter
+
+Word of Day API
+
+Twitter Bot - Reply on follow/followback
+
+Picture Mosaic
+
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+
+### Day 18
+24 January 2017, Tuesday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  Adding DM responses to follows with Twitter bot jSaBOT
+  ~~finishing rose website~~
+
+
+<br><br>
+**Today I Read**
+How to make a Twitter Bot with Node.js - Part 2
+https://community.risingstack.com/how-to-make-a-twitter-bot-with-node-js/
+
+Twitter Developer Documentation
+https://dev.twitter.com/streaming/overview
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Word of Day API/Dictionary
+
+Picture Mosaic
+
+TCS Easter Egg gif
+
+
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
+
+**Link(s) to work**
+
+1. [Websites] - http://tdbennett.com/rose
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+3. [Github Repo] https://github.com/soldierforus/jSaBOT
+
 
 ###_____________________________________________________________________________
