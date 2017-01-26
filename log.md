@@ -371,88 +371,6 @@ Word of Day API
 
 
 
-### Day 10
-14 January 2017, Saturday
-
-**Today's Progress**:
-Today I worked on: <br>
-  ~~JS/CSS a timezone clock~~ <br>
-  Word of the day API <br>
-  Metric/Standard Converter<br>
-  ~~Learn about removing files from master branch on github~~ <br>
-
-
-**TIL**
-React Dribble -  Show and Tell for Designers:
-https://dribbble.com/
-
-
-**Next Up**
-[Time logger] - Time logger, SQLite, ReactJS
-
-[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
-
-~~[GitHub] Learn about removing files from master branch on github~~
-
-Metric/Standard Measurement Converter
-
-~~Time zone Clock~~
-
-Word of Day API
-
-
-**Link(s) to work**
-
-1. [Websites] - not yet published
-
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
-
-###_____________________________________________________________________________
-
-
-
-
-### Day 10
-14 January 2017, Saturday
-
-**Today's Progress**:
-Today I worked on: <br>
-  ~~JS/CSS a timezone clock~~ <br>
-  Word of the day API <br>
-  Metric/Standard Converter<br>
-  ~~Learn about removing files from master branch on github~~ <br>
-
-
-**TIL**
-React Dribble -  Show and Tell for Designers:
-https://dribbble.com/
-
-
-**Next Up**
-[Time logger] - Time logger, SQLite, ReactJS
-
-[TalkSick.Space] - ~~Embed SoundCloud,~~ Add animations to second 'K'
-
-~~[GitHub] Learn about removing files from master branch on github~~
-
-Metric/Standard Measurement Converter
-
-~~Time zone Clock~~
-
-Word of Day API
-
-
-**Link(s) to work**
-
-1. [Websites] - not yet published
-
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
-
-###_____________________________________________________________________________
-
-
-
-
 ### Day 11
 17 January 2017, Tuesday
 <br><br>
@@ -787,7 +705,7 @@ http://api.jquery.com/jquery.getjson/
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
-Metric/Standard Measurement Converter
+TCS Easter Egg gif
 
 Word of Day API
 
@@ -825,6 +743,7 @@ Serverless- https://serverless.com/
 Today I worked on: <br>
   Adding DM responses to follows with Twitter bot jSaBOT
   ~~finishing rose website~~
+  ~~TCS Easter Egg~~
 
 
 <br><br>
@@ -843,7 +762,6 @@ Word of Day API/Dictionary
 
 Picture Mosaic
 
-TCS Easter Egg gif
 
 
 <br>
@@ -862,9 +780,58 @@ Serverless- https://serverless.com/
 
 1. [Websites] - http://tdbennett.com/rose
 
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+2. [Websites] - http://tucsoncode.org/
 
-3. [Github Repo] https://github.com/soldierforus/jSaBOT
+3. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+4. [Github Repo] https://github.com/soldierforus/jSaBOT
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 19
+25 January 2017, Wednesday
+<br><br>
+**Today's Progress**:
+Today I worked on: <br>
+  Adding DM responses to follows with Twitter bot jSaBOT
+
+
+
+<br><br>
+**Today I Read**
+TYPESCRIPT VS ECMASCRIPT WHICH ONE IS BETTER FOR WRITING JAVASCRIPT
+https://www.dunebook.com/typescript-vs-ecmascript-which-one-is-better-for-writing-javascript/
+
+<br><br>
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Word of Day API/Dictionary
+
+Picture Mosaic
+
+Password Manager
+
+
+<br>
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+<br><br>
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/jSaBOT
+
 
 
 ###_____________________________________________________________________________
