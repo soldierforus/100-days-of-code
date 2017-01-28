@@ -9,8 +9,10 @@
 **Today's Progress**:
 I revamped my personal website and got it set up using Amazon Web Services, along with a few other websites I created and maintain.
 
+
 **Thoughts**
 I've been on a bit of a hiatus, but I am ready to go full steam ahead with coding. I'm excited to document #100DaysOfCode along with my own personal goal of #1000HoursOfCode which I started before I knew anything about this challenge.  My primary goal is to be working as a developer by the end of June.  This challenge will help me build and showcase a portfolio to show to prospective employers.  I wish everyone participating in this challenge good luck, and would especially like to thank my best friend and mentor @StephenGFriend, for being a consistent source of support and motivation!
+
 
 **Link(s) to work**
 
@@ -36,6 +38,7 @@ Nuclide is built as a single package on top of Atom to provide hackability and t
 eslint - http://eslint.org/ - The pluggable linting utility for JavaScript and JSX
 
 I was inspired to make my nodeJS apps a little more consistent with double quotes, semi-colons, spacing, and to adhere to accepted styling practices in general for my code using these new tools.
+
 
 **Thoughts**
 ~~Tomorrow I will work on creating a website for my friend's music group.~~
@@ -74,7 +77,6 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 
 ~~[TalkSick.Space] - More work on my friends website.~~
 
-
 **Link(s) to work**
 
 1. [Websites] http://www.TDBennett.com, http://tucsoncode.org/, http://tucsonprivacy.com/
@@ -97,7 +99,6 @@ Back at the codes.  Today I worked on building a keyboard drum kit for the websi
 I installed oh-my-zsh  for my terminal and chose the "kafeitu" theme.
 http://ohmyz.sh/
 https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-
 
 **Next Up**
 [ReactJS]
@@ -126,9 +127,8 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 Today I worked on:
   ~~Responsive css for http://talksick.space.~~
   ~~JS/CSS a timezone clock~~
-  ~~Fixed navbar collapse, changed fonts, added facebook image metadata, http://tdbennett.com
+  ~~Fixed navbar collapse, changed fonts, added ~~facebook image metadata, http://tdbennett.com
 ~~
-
 
 **TIL**
 Today I read this Airbnb Javascript style guide and forked it's repo to my github account.  I'm looking for cleaner code in future projects.
@@ -166,11 +166,9 @@ Metric/Standard Measurement Converter
 Today I worked on:
   ~~JS/CSS a timezone clock~~
 
-
 **TIL**
 Read and watched NodeJS State of the Union:
 https://www.linux.com/news/nodejs-state-union
-
 
 **Next Up**
 [ReactJS] - Time logger
@@ -179,11 +177,11 @@ https://www.linux.com/news/nodejs-state-union
 
 ~~[GitHub] Learn about removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
-Time zone clock
+~~Time zone clock~~
 
-~~JavaScript Hover Word  Change~~
+~~JavaScript Hover Word Change~~
 
 Word of Day API
 
@@ -205,7 +203,7 @@ Word of Day API
 Today I worked on:
   ~~JS/CSS a timezone clock~~
   ~~Mouseover/Mouseout JavaScript~~
-  Metric/Standard Converter
+  ~~Metric/Standard Converter~~
 
 
 **TIL**
@@ -223,7 +221,7 @@ http://stackoverflow.com/questions/24041/markdown-vs-markup-are-they-related
 
 ~~[GitHub] Learn about removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 ~~Time zone clock~~
 
@@ -247,10 +245,10 @@ Word of Day API
 11 January 2017, Wednesday
 
 **Today's Progress**:
-Today I worked on: <br>
-  ~~JS/CSS a timezone clock~~ <br>
-  Word of the day API <br>
-  Metric/Standard Converter <br>
+Today I worked on:
+  ~~JS/CSS a timezone clock~~
+  Word of the day API
+  Metric/Standard Converter
 
 
 **TIL**
@@ -268,7 +266,7 @@ https://market.mashape.com/
 
 ~~[GitHub] Learn about removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 ~~Time zone Clock~~
 
@@ -291,10 +289,10 @@ Word of Day API
 12 January 2017, Thursday
 
 **Today's Progress**:
-Today I worked on: <br>
-  ~~JS/CSS a timezone clock~~ <br>
-  Word of the day API <br>
-  Metric/Standard Converter <br>
+Today I worked on:
+  ~~JS/CSS a timezone clock~~
+  Word of the day API
+  Metric/Standard Converter
 
 
 **TIL**
@@ -310,9 +308,9 @@ https://market.mashape.com/
 
 [TalkSick.Space] - ~~Embed SoundCloud~~, Add animations to second 'K'
 
-~~[GitHub] Learn about removing files from master branch on github~~
+~~[GitHub] removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 ~~Time zone Clock~~
 
@@ -334,11 +332,11 @@ Word of Day API
 14 January 2017, Saturday
 
 **Today's Progress**:
-Today I worked on: <br>
-  ~~JS/CSS a timezone clock~~ <br>
-  Word of the day API <br>
-  Metric/Standard Converter<br>
-  ~~Learn about removing files from master branch on github~~ <br>
+Today I worked on:
+  ~~JS/CSS a timezone clock~~
+  Word of the day API
+  ~~Metric/Standard Converter~~
+  ~~removing files from master branch on github~~
 
 
 **TIL**
@@ -353,7 +351,7 @@ https://dribbble.com/
 
 ~~[GitHub] Learn about removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 ~~Time zone Clock~~
 
@@ -373,26 +371,26 @@ Word of Day API
 
 ### Day 11
 17 January 2017, Tuesday
-<br><br>
-**Today's Progress**:
-Today I worked on: <br>
-  <li>Word of the day API <br>
-  <li>Metric/Standard Converter<br>
 
-<br><br>
+**Today's Progress**:
+Today I worked on:
+  <li>Word of the day API
+  <li>Metric/Standard Converter
+
+
 **TIL**
 Why JavaScript is used in IoT
 http://blog.hackerearth.com/javascript-in-iot?utm_source=facebook-post&utm_campaign=jsiot&utm_medium=he-handle
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 Word of Day API
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -406,26 +404,27 @@ Word of Day API
 
 ### Day 12
 18 January 2017, Wednesday
-<br><br>
-**Today's Progress**:
-Today I worked on: <br>
-  ~~<li>Metric/Standard Converter<br>~~
 
-<br><br>
+**Today's Progress**:
+Today I worked on:
+  ~~<li>Metric/Standard Converter~~
+
+
 **Today I Read**
 Node.js Best Practices - How to Become a Better Developer in 2017
 https://blog.risingstack.com/node-js-best-practices-2017/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 Word of Day API
 
 Picture Mosaic
-<br>
+
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -435,7 +434,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -449,31 +448,30 @@ Serverless- https://serverless.com/
 
 ### Day 13
 19 January 2017, Thursday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   ~Using JS to check a string for a Substring~
   Word of the Day API
 
-<br><br>
+
 **Today I Read**
 Learn JavaScript – How To Check if One String Contains Another Substring?
 http://blog.liveedu.tv/javascript-string-check/https://blog.risingstack.com/node-js-best-practices-2017/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 Word of Day API
 
-Twitter Bot - Reply on follow/followback
-
-
+~~Twitter Bot - Reply on follow/followback~~
 
 Picture Mosaic
-<br>
+
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -483,7 +481,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -497,21 +495,21 @@ Serverless- https://serverless.com/
 
 ### Day 14
 20 January 2017, Friday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   Event Listeners in Node.Js
   Word of the Day API
   Began reading React Documentation
 
-<br><br>
+
 **Today I Read**
 Learn Event Driven Programming in Node.js
 https://www.eduonix.com/blog/web-programming-tutorials/learn-event-driven-programming-node-js/
 Learn about Event Emitters in Node.js
 https://www.eduonix.com/blog/web-programming-tutorials/learn-event-emitters-node-js/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -523,7 +521,7 @@ Twitter Bot - Reply on follow/followback
 
 Picture Mosaic
 
-<br>
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -533,7 +531,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -544,19 +542,18 @@ Serverless- https://serverless.com/
 
 ### Day 15
 21 January 2017, Saturday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   Event Listeners in Node.Js
   Word of the Day API
 
 
-<br><br>
 **Today I Read**
 jQuer/Ajax
 http://api.jquery.com/jquery.getjson/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -568,7 +565,7 @@ Twitter Bot - Reply on follow/followback
 
 Picture Mosaic
 
-<br>
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -578,7 +575,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -590,25 +587,20 @@ Serverless- https://serverless.com/
 
 
 
-
-
-
-
 ### Day 16
 22 January 2017, Sunday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   Event Listeners in Node.Js
   Word of the Day API
 
 
-<br><br>
 **Today I Read**
 jQuer/Ajax
 http://api.jquery.com/jquery.getjson/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -620,7 +612,7 @@ Twitter Bot - Reply on follow/followback
 
 Picture Mosaic
 
-<br>
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -630,7 +622,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -641,31 +633,31 @@ Serverless- https://serverless.com/
 
 ### Day 16
 22 January 2017, Sunday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   Event Listeners in Node.Js
   Word of the Day API
 
 
-<br><br>
+
 **Today I Read**
 jQuer/Ajax
 http://api.jquery.com/jquery.getjson/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 Word of Day API
 
-Twitter Bot - Reply on follow/followback
+~~Twitter Bot - Reply on follow/followback~~
 
 Picture Mosaic
 
-<br>
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -675,7 +667,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -690,18 +682,18 @@ Serverless- https://serverless.com/
 
 ### Day 17
 23 January 2017, Monday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
+Today I worked on:
   Aesthetic changes rose website
 
 
-<br><br>
+
 **Today I Read**
 jQuer/Ajax
 http://api.jquery.com/jquery.getjson/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -713,7 +705,7 @@ Twitter Bot - Reply on follow/followback
 
 Picture Mosaic
 
-<br>
+
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -723,7 +715,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 **Link(s) to work**
 
 1. [Websites] - not yet published
@@ -735,18 +727,16 @@ Serverless- https://serverless.com/
 
 
 
-
 ### Day 18
 24 January 2017, Tuesday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
-  Adding DM responses to follows with Twitter bot jSaBOT
+Today I worked on:
+  Adding tweet responses to follows with Twitter bot jSaBOT
   ~~finishing rose website~~
   ~~TCS Easter Egg~~
 
 
-<br><br>
 **Today I Read**
 How to make a Twitter Bot with Node.js - Part 2
 https://community.risingstack.com/how-to-make-a-twitter-bot-with-node-js/
@@ -754,7 +744,7 @@ https://community.risingstack.com/how-to-make-a-twitter-bot-with-node-js/
 Twitter Developer Documentation
 https://dev.twitter.com/streaming/overview
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -763,8 +753,6 @@ Word of Day API/Dictionary
 Picture Mosaic
 
 
-
-<br>
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -774,7 +762,7 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
 
 **Link(s) to work**
 
@@ -793,19 +781,17 @@ Serverless- https://serverless.com/
 
 ### Day 19
 25 January 2017, Wednesday
-<br><br>
+
 **Today's Progress**:
-Today I worked on: <br>
-  Adding DM responses to follows with Twitter bot jSaBOT
+Today I worked on:
+  Adding tweet responses to follows with Twitter bot jSaBOT
 
 
-
-<br><br>
 **Today I Read**
 TYPESCRIPT VS ECMASCRIPT WHICH ONE IS BETTER FOR WRITING JAVASCRIPT
 https://www.dunebook.com/typescript-vs-ecmascript-which-one-is-better-for-writing-javascript/
 
-<br><br>
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 
@@ -816,7 +802,6 @@ Picture Mosaic
 Password Manager
 
 
-<br>
 **New Tools to Learn**
 Babel -https://babeljs.io/
 Nuclide - https://nuclide.io/docs/quick-start/getting-started/
@@ -826,7 +811,95 @@ Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
 
-<br><br>
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/jSaBOT
+
+
+
+###_____________________________________________________________________________
+
+
+
+### Day 20
+26 January 2017, Thursday
+
+**Today's Progress**:
+Today I worked on:
+  jSaBOT - twitter bot
+
+
+**Today I Read**
+5 Linux commands to shutdown and reboot the system
+http://www.binarytides.com/linux-command-shutdown-reboot-restart-system/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Word of Day API/Dictionary
+
+Picture Mosaic
+
+Password Manager
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/jSaBOT
+
+
+
+###_____________________________________________________________________________
+
+
+
+### Day 21
+27 January 2017, Friday
+
+**Today's Progress**:
+Today I worked on:
+  Event Emitters
+
+
+**Today I Read**
+Nobody wants to use software
+Why you should rethink software development
+https://medium.freecodecamp.com/nobody-wants-to-use-software-a75643bee654#.pylbqhcr4
+
+Learn Event Driven Programming in Node.js
+https://www.eduonix.com/blog/web-programming-tutorials/learn-event-driven-programming-node-js/
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Word of Day API/Dictionary
+
+Picture Mosaic
+
+Password Manager
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
 
 **Link(s) to work**
 
