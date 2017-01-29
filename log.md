@@ -870,7 +870,7 @@ Serverless- https://serverless.com/
 
 **Today's Progress**:
 Today I worked on:
-  Event Emitters
+  ~~Event Emitters~~
 
 
 **Today I Read**
@@ -904,6 +904,55 @@ Serverless- https://serverless.com/
 **Link(s) to work**
 
 1. [Github Repo] https://github.com/soldierforus/jSaBOT
+
+
+
+###_____________________________________________________________________________
+
+
+
+### Day 22
+28 January 2017, Saturday
+
+**Today's Progress**:
+Today I worked on:
+  ~~Event Emitters~~
+  PW Manager
+  Encryption with crypto-js
+
+
+**Today I Read**
+Volunteers Needed for the Next Phase of the Node.js Certified Developer Program
+
+https://medium.com/@nodejs/volunteers-needed-for-the-next-phase-of-the-node-js-certified-developer-program-eeb631effc49#.3j1r0wqjs
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+
+Word of Day API/Dictionary
+
+Picture Mosaic
+
+Password Manager
+
+Add favoriting to jSaBOT
+
+keybase.io
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus
 
 
 
