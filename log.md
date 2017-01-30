@@ -92,7 +92,7 @@ flow - https://flowtype.org/ - A STATIC TYPE CHECKER FOR JAVASCRIPT.  I went thr
 7 January 2017, Saturday
 
 **Today's Progress**:
-Back at the codes.  Today I worked on building a keyboard drum kit for the website http://talksick.space
+~~Today I worked on building a keyboard drum kit for the website http://talksick.space ~~
 
 
 **TIL**
@@ -146,7 +146,7 @@ How to find processes and kill them:
 
 ~~[GitHub] Learn about removing files from master branch on github~~
 
-Metric/Standard Measurement Converter
+~~Metric/Standard Measurement Converter~~
 
 **Link(s) to work**
 
@@ -248,7 +248,7 @@ Word of Day API
 Today I worked on:
   ~~JS/CSS a timezone clock~~
   Word of the day API
-  Metric/Standard Converter
+  ~~Metric/Standard Converter~~
 
 
 **TIL**
@@ -292,7 +292,7 @@ Word of Day API
 Today I worked on:
   ~~JS/CSS a timezone clock~~
   Word of the day API
-  Metric/Standard Converter
+  ~~Metric/Standard Converter~~
 
 
 **TIL**
@@ -374,8 +374,8 @@ Word of Day API
 
 **Today's Progress**:
 Today I worked on:
-  <li>Word of the day API
-  <li>Metric/Standard Converter
+  Word of the day API
+  ~~Metric/Standard Converter~~
 
 
 **TIL**
@@ -407,7 +407,7 @@ Word of Day API
 
 **Today's Progress**:
 Today I worked on:
-  ~~<li>Metric/Standard Converter~~
+  ~~<Metric/Standard Converter~~
 
 
 **Today I Read**
@@ -498,7 +498,7 @@ Serverless- https://serverless.com/
 
 **Today's Progress**:
 Today I worked on:
-  Event Listeners in Node.Js
+  ~~Event Listeners in Node.Js~~
   Word of the Day API
   Began reading React Documentation
 
@@ -508,142 +508,6 @@ Learn Event Driven Programming in Node.js
 https://www.eduonix.com/blog/web-programming-tutorials/learn-event-driven-programming-node-js/
 Learn about Event Emitters in Node.js
 https://www.eduonix.com/blog/web-programming-tutorials/learn-event-emitters-node-js/
-
-
-**Next Up**
-[Time logger] - Time logger, SQLite, ReactJS
-
-Metric/Standard Measurement Converter
-
-Word of Day API
-
-Twitter Bot - Reply on follow/followback
-
-Picture Mosaic
-
-
-**New Tools to Learn**
-Babel -https://babeljs.io/
-Nuclide - https://nuclide.io/docs/quick-start/getting-started/
-Flow - https://flowtype.org/docs/getting-started.html
-ESLint http://eslint.org/docs/about/
-Docker -https://docs.docker.com/engine/getstarted/
-Prometheus - https://prometheus.io/
-Serverless- https://serverless.com/
-
-
-**Link(s) to work**
-
-1. [Websites] - not yet published
-
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
-
-###_____________________________________________________________________________
-
-### Day 15
-21 January 2017, Saturday
-
-**Today's Progress**:
-Today I worked on:
-  Event Listeners in Node.Js
-  Word of the Day API
-
-
-**Today I Read**
-jQuer/Ajax
-http://api.jquery.com/jquery.getjson/
-
-
-**Next Up**
-[Time logger] - Time logger, SQLite, ReactJS
-
-Metric/Standard Measurement Converter
-
-Word of Day API
-
-Twitter Bot - Reply on follow/followback
-
-Picture Mosaic
-
-
-**New Tools to Learn**
-Babel -https://babeljs.io/
-Nuclide - https://nuclide.io/docs/quick-start/getting-started/
-Flow - https://flowtype.org/docs/getting-started.html
-ESLint http://eslint.org/docs/about/
-Docker -https://docs.docker.com/engine/getstarted/
-Prometheus - https://prometheus.io/
-Serverless- https://serverless.com/
-
-
-**Link(s) to work**
-
-1. [Websites] - not yet published
-
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
-
-###_____________________________________________________________________________
-
-
-
-
-### Day 16
-22 January 2017, Sunday
-
-**Today's Progress**:
-Today I worked on:
-  Event Listeners in Node.Js
-  Word of the Day API
-
-
-**Today I Read**
-jQuer/Ajax
-http://api.jquery.com/jquery.getjson/
-
-
-**Next Up**
-[Time logger] - Time logger, SQLite, ReactJS
-
-Metric/Standard Measurement Converter
-
-Word of Day API
-
-Twitter Bot - Reply on follow/followback
-
-Picture Mosaic
-
-
-**New Tools to Learn**
-Babel -https://babeljs.io/
-Nuclide - https://nuclide.io/docs/quick-start/getting-started/
-Flow - https://flowtype.org/docs/getting-started.html
-ESLint http://eslint.org/docs/about/
-Docker -https://docs.docker.com/engine/getstarted/
-Prometheus - https://prometheus.io/
-Serverless- https://serverless.com/
-
-
-**Link(s) to work**
-
-1. [Websites] - not yet published
-
-2. [Github Repo] https://github.com/soldierforus/tdbennett.com
-
-###_____________________________________________________________________________
-
-### Day 16
-22 January 2017, Sunday
-
-**Today's Progress**:
-Today I worked on:
-  Event Listeners in Node.Js
-  Word of the Day API
-
-
-
-**Today I Read**
-jQuer/Ajax
-http://api.jquery.com/jquery.getjson/
 
 
 **Next Up**
@@ -679,13 +543,96 @@ Serverless- https://serverless.com/
 
 
 
-
-### Day 17
-23 January 2017, Monday
+### Day 15
+21 January 2017, Saturday
 
 **Today's Progress**:
 Today I worked on:
-  Aesthetic changes rose website
+~~Event Listeners in Node.Js~~
+  Word of the Day API
+
+
+**Today I Read**
+jQuer/Ajax
+http://api.jquery.com/jquery.getjson/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+~~Metric/Standard Measurement Converter~~
+Word of Day API
+~~Twitter Bot - Reply on follow/followback~~
+Picture Mosaic
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 16
+22 January 2017, Sunday
+
+**Today's Progress**:
+Today I worked on:
+  ~~Event Listeners in Node.Js~~
+  Word of the Day API
+
+
+**Today I Read**
+jQuer/Ajax
+http://api.jquery.com/jquery.getjson/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+~~Metric/Standard Measurement Converter~~
+Word of Day API
+~~Twitter Bot - Reply on follow/followback~~
+Picture Mosaic
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+### Day 16
+22 January 2017, Sunday
+
+**Today's Progress**:
+Today I worked on:
+~~Event Listeners in Node.Js~~
+  Word of the Day API
 
 
 
@@ -696,13 +643,53 @@ http://api.jquery.com/jquery.getjson/
 
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
-
-TCS Easter Egg gif
-
+~~Metric/Standard Measurement Converter~~
 Word of Day API
+~~Twitter Bot - Reply on follow/followback~~
+Picture Mosaic
 
-Twitter Bot - Reply on follow/followback
 
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Websites] - not yet published
+
+2. [Github Repo] https://github.com/soldierforus/tdbennett.com
+
+###_____________________________________________________________________________
+
+
+
+
+
+### Day 17
+23 January 2017, Monday
+
+**Today's Progress**:
+Today I worked on:
+  ~~Aesthetic changes rose website~~
+
+
+
+**Today I Read**
+jQuer/Ajax
+http://api.jquery.com/jquery.getjson/
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+~~TCS Easter Egg gif~~
+Word of Day API
+~~Twitter Bot - Reply on follow/followback~~
 Picture Mosaic
 
 
@@ -732,7 +719,7 @@ Serverless- https://serverless.com/
 
 **Today's Progress**:
 Today I worked on:
-  Adding tweet responses to follows with Twitter bot jSaBOT
+  ~~Adding tweet responses to follows with Twitter bot jSaBOT~~
   ~~finishing rose website~~
   ~~TCS Easter Egg~~
 
@@ -747,9 +734,7 @@ https://dev.twitter.com/streaming/overview
 
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
-
 Word of Day API/Dictionary
-
 Picture Mosaic
 
 
@@ -784,7 +769,7 @@ Serverless- https://serverless.com/
 
 **Today's Progress**:
 Today I worked on:
-  Adding tweet responses to follows with Twitter bot jSaBOT
+  ~~Adding tweet responses to follows with Twitter bot jSaBOT~~
 
 
 **Today I Read**
@@ -827,7 +812,7 @@ Serverless- https://serverless.com/
 
 **Today's Progress**:
 Today I worked on:
-  jSaBOT - twitter bot
+  ~~jSaBOT - twitter bot~~
 
 
 **Today I Read**
@@ -837,11 +822,8 @@ http://www.binarytides.com/linux-command-shutdown-reboot-restart-system/
 
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
-
 Word of Day API/Dictionary
-
 Picture Mosaic
-
 Password Manager
 
 
@@ -883,11 +865,8 @@ https://www.eduonix.com/blog/web-programming-tutorials/learn-event-driven-progra
 
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
-
 Word of Day API/Dictionary
-
 Picture Mosaic
-
 Password Manager
 
 
@@ -918,7 +897,7 @@ Serverless- https://serverless.com/
 Today I worked on:
   ~~Event Emitters~~
   PW Manager
-  Encryption with crypto-js
+  ~~Encryption with crypto-js~~
 
 
 **Today I Read**
@@ -928,16 +907,63 @@ https://medium.com/@nodejs/volunteers-needed-for-the-next-phase-of-the-node-js-c
 
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
-
 Word of Day API/Dictionary
-
 Picture Mosaic
-
 Password Manager
-
 Add favoriting to jSaBOT
+Keybase.io
+Elevator.js music and tea for two on tdbennett.com
 
-keybase.io
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus
+
+
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 23
+29 January 2017, Sunday
+
+**Today's Progress**:
+Today I worked on:
+  ~~Password Manager -- added encryption to local storage using crypto-js ~~
+  Elevator.js music and tea for two on tdbennett.com
+  ~~keybase.io~~
+
+
+**Today I Read**
+Understanding the Keybase filesystem
+https://keybase.io/docs/kbfs/understanding_kbfs
+
+“My First Line of Code”: Linux Creator Linus Torvalds
+https://fossbytes.com/my-first-line-of-code-linux-creator-linus-torvalds/
+
+10 Essential Atom Add-ons
+https://www.sitepoint.com/10-essential-atom-add-ons/?utm_content=bufferbaf58&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+Word of Day API/Dictionary
+Picture Mosaic
+Password Manager
+Add favoriting to jSaBOT
+Keybase.io
+Elevator.js music and tea for two on tdbennett.com
 
 
 **New Tools to Learn**
