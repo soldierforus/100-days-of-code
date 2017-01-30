@@ -942,7 +942,7 @@ Serverless- https://serverless.com/
 **Today's Progress**:
 Today I worked on:
   ~~Password Manager -- added encryption to local storage using crypto-js ~~
-  Elevator.js music and tea for two on tdbennett.com
+  ~~Elevator.js music and tea for two on tdbennett.com~~
   ~~keybase.io~~
 
 
@@ -956,14 +956,17 @@ https://fossbytes.com/my-first-line-of-code-linux-creator-linus-torvalds/
 10 Essential Atom Add-ons
 https://www.sitepoint.com/10-essential-atom-add-ons/?utm_content=bufferbaf58&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
+Ex-Mozilla Engineer: Don’t use third-party antivirus software, Use Microsoft Defender instead
+https://www.techworm.net/2017/01/ex-mozilla-engineers-warns-users-using-third-party-antivirus-software-pcs.html
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 Word of Day API/Dictionary
 Picture Mosaic
-Password Manager
+Password Manager - throw errors
 Add favoriting to jSaBOT
-Keybase.io
-Elevator.js music and tea for two on tdbennett.com
+
+
 
 
 **New Tools to Learn**
@@ -974,7 +977,7 @@ ESLint http://eslint.org/docs/about/
 Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
-
+Yarn - https://yarnpkg.com/en/docs/install
 
 **Link(s) to work**
 
