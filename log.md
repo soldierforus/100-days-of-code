@@ -981,7 +981,53 @@ Yarn - https://yarnpkg.com/en/docs/install
 
 **Link(s) to work**
 
-1. [Github Repo] https://github.com/soldierforus
+1. [Github Repo] https://github.com/soldierforus/passwordManager
+
+
+
+###_____________________________________________________________________________
+
+
+
+
+### Day 24
+30 January 2017, Monday
+
+**Today's Progress**:
+Today I worked on:
+~~  Password Manager - throw errors~~
+~~  yarn pkg ~~
+
+
+**Today I Read**
+Learn to Code: 13 Tips that Could Save You Years of Effort:
+https://t.co/ymbA7SiU0t
+
+Yarn
+http://www.mead.io/yarn/?utm_source=newsletter&utm_campaign=yarn&utm_medium=udemy
+
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+Word of Day API/Dictionary
+Picture Mosaic
+Add favoriting to jSaBOT
+
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+~~Yarn - https://yarnpkg.com/en/docs/install ~~
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/passwordManager
 
 
 
