@@ -995,9 +995,8 @@ Yarn - https://yarnpkg.com/en/docs/install
 
 **Today's Progress**:
 Today I worked on:
-~~  Password Manager - throw errors~~
-~~  yarn pkg ~~
-
+  ~~Password Manager - throw errors~~
+  ~~yarn pkg~~
 
 **Today I Read**
 Learn to Code: 13 Tips that Could Save You Years of Effort:
@@ -1023,7 +1022,46 @@ ESLint http://eslint.org/docs/about/
 Docker -https://docs.docker.com/engine/getstarted/
 Prometheus - https://prometheus.io/
 Serverless- https://serverless.com/
-~~Yarn - https://yarnpkg.com/en/docs/install ~~
+Yarn - https://yarnpkg.com/en/docs/install
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/passwordManager
+
+
+
+###_____________________________________________________________________________
+
+
+
+### Day 25
+31 January 2017, Tuesday
+
+**Today's Progress**:
+Today I worked on:
+  React TodoList
+
+**Today I Read**
+Learning React Native - @devinaabbott
+http://www.reactnativeexpress.com/modern_javascript
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+Word of Day API/Dictionary
+Picture Mosaic
+Add favoriting to jSaBOT
+
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
 
 **Link(s) to work**
 
