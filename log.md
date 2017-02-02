@@ -1070,3 +1070,41 @@ Serverless- https://serverless.com/
 
 
 ###_____________________________________________________________________________
+
+
+### Day 26
+1 February 2017, Wednesday
+
+**Today's Progress**:
+Today I worked on:
+  React Hello World
+
+**Today I Read**
+Learning React Native - @devinaabbott
+http://www.reactnativeexpress.com/modern_javascript
+
+**Next Up**
+[Time logger] - Time logger, SQLite, ReactJS
+Word of Day API/Dictionary
+Picture Mosaic
+Add favoriting to jSaBOT
+React TodoList
+Chesapeake Bay Baseball League app [website] https://chesmsbl.org/
+
+
+
+**New Tools to Learn**
+Babel -https://babeljs.io/
+Nuclide - https://nuclide.io/docs/quick-start/getting-started/
+Flow - https://flowtype.org/docs/getting-started.html
+ESLint http://eslint.org/docs/about/
+Docker -https://docs.docker.com/engine/getstarted/
+Prometheus - https://prometheus.io/
+Serverless- https://serverless.com/
+
+
+**Link(s) to work**
+
+1. [Github Repo] https://github.com/soldierforus/reactHW
+
+###_____________________________________________________________________________
