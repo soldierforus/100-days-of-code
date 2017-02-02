@@ -1083,6 +1083,9 @@ Today I worked on:
 Learning React Native - @devinaabbott
 http://www.reactnativeexpress.com/modern_javascript
 
+nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application -https://nodemon.io/
+
+
 **Next Up**
 [Time logger] - Time logger, SQLite, ReactJS
 Word of Day API/Dictionary
